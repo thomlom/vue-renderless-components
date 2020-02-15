@@ -1,24 +1,7 @@
-# renderless-components
+# Select
 
-## Project setup
-```
-npm install
-```
+Renderless, lightweight and accessible select.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Inspiration
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This library is largely inspired by [Downshift](https://github.com/downshift-js/downshift)!
